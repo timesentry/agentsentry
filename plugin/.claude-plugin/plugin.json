@@ -1,0 +1,13 @@
+{
+  "name": "agentsentry",
+  "version": "1.0.0",
+  "description": "Open-source time and token tracking for AI coding agents. Every session is logged, measured, and submitted automatically. Powered by timesentry.ai.",
+  "author": {
+    "name": "TimeSentry",
+    "url": "https://timesentry.ai"
+  },
+  "homepage": "https://github.com/timesentry/agentsentry",
+  "repository": "https://github.com/timesentry/agentsentry",
+  "license": "MIT",
+  "keywords": ["time-tracking", "token-tracking", "agent", "chronometry", "open-source"]
+}
