@@ -61,10 +61,10 @@ This launches PostgreSQL, the Flask backend (port 5000), and the Vite dev server
 
 ### 4. Install the Claude Code plugin
 
-Launch Claude Code with the plugin directory:
+Launch Claude Code with the plugin directory pointed at this repo:
 
 ```bash
-claude --plugin-dir /path/to/agentsentry/plugin
+claude --plugin-dir ./plugin
 ```
 
 Then configure with the skill command:
